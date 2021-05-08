@@ -11,7 +11,7 @@ Oi, meu nome é Rafael Amaral!
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
 #### Banco de dados
-![SQL Server](https://img.shields.io/badge/sqlserver-%2307405e.svg?&style=for-the-badge&logo=sql-server&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Ferramentas
 ![Windows 10](https://img.shields.io/badge/Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white&color=3b3b3b)
