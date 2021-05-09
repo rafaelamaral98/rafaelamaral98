@@ -6,12 +6,13 @@
 </div><br/>
 
 <div style:"display: inline-block">
-  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30" width="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30" width="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="40"/></a>
-</div> 
-
-##
+  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="30" width="40"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="30" width="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30" width="40"/></a>
+    <a href="https://www.mysql.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="30" width="40"/></a>
+  <a href="https://nodejs.org/pt-br/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="30" width="40"/></a>
+  <a href="https://www.php.net/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" height="30" width="40"/></a>
+</div><hr>
 
 <div style:"display: inline-block">
   <a href ="mailto: rafaelamaralpessoa658@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
