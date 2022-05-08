@@ -11,7 +11,7 @@
   <a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30" width="40"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="30" width="40"/></a>
   <a href="https://nodejs.org/pt-br/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="30" width="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" height="30" width="40"/></a>
+  <a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="30" width="40"/></a>
 </div><hr>
 
 <div style:"display: inline-block">
